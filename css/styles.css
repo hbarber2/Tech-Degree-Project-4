@@ -1,16 +1,3 @@
 @use 'utilities/index',
-//				'utilities/mixins',
-//				'utilities/variables';
-@use 'components/index',
-//				'components/buttons',
-//				'components/forms',
-//				'components/grid',
-//				'components/base-styles',
-//				'components/images',
-//				'components/media-queries',
-//				'components/navigation';
-@use 'base/index',
-//				'base/normalize',
-//			'base/typography/typography';
-
-/*# sourceMappingURL=styles.css.map */
+				'base/index',
+				'components/index'
