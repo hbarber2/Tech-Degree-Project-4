@@ -1,0 +1,29 @@
+/* ============================================= */
+/*              Forms                            */
+/* ============================================= */
+/* line 5, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/forms.scss */
+.form {
+  flex-basis: 100%;
+}
+
+/* line 9, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/forms.scss */
+.input {
+  display: block;
+  width: 94%;
+  margin: 10px auto 0;
+  border: none;
+  padding: 10px;
+  border-bottom: 5px solid #58e1c1;
+}
+
+/* line 18, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/forms.scss */
+.hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=forms.css.map */

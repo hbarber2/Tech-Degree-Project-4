@@ -1,0 +1,40 @@
+/* ============================================= */
+/*              Buttons                          */
+/* ============================================= */
+/* line 5, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.btn {
+  margin-top: 15px;
+  width: 100%;
+  color: #fff;
+  border: none;
+  padding: 10px 0;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+/* line 15, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.default {
+  background-color: #51ddfc;
+}
+
+/* line 19, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.error {
+  background-color: #e4757a;
+}
+
+/* line 23, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.info {
+  background-color: #927bc1;
+}
+
+/* line 27, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.success {
+  background-color: #63cc82;
+}
+
+/* line 31, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/buttons.scss */
+.warning {
+  background-color: #fd7856;
+}
+
+/*# sourceMappingURL=buttons.css.map */

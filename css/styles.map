@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../scss/styles.scss"
+	],
+	"sourcesContent": [
+		"//=======================\n// Partial Imports\n//=======================\n\n\n// Utilities\n@use 'utilities/index',\n//\t\t\t\t'utilities/mixins',\n//\t\t\t\t'utilities/variables';\n//\t\n// Components\n\t\n@use 'components/index',\n//\t\t\t\t'components/buttons',\n//\t\t\t\t'components/forms',\n//\t\t\t\t'components/grid',\n//\t\t\t\t'components/base-styles',\n//\t\t\t\t'components/images',\n//\t\t\t\t'components/media-queries',\n//\t\t\t\t'components/navigation';\n//\t\n// Base\n\t\n@use 'base/index',\n//\t\t\t\t'base/normalize',\n//\t\t\t'base/typography/typography';\n//\t\t\t\t\n\t"
+	],
+	"names": [],
+	"mappings": "AAMA,IAAI,CAAJ;;2BAAI;AAMJ,IAAI,CAAJ;;;;;;;6BAAI;AAWJ,IAAI,CAAJ;;iCAAI"
+}

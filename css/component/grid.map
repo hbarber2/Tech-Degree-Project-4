@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "grid.css",
+	"sources": [
+		"../../scss/component/grid.scss"
+	],
+	"sourcesContent": [
+		"/* ============================================= */\n/*              Grid System                      */\n/* ============================================= */\n\n.container {\n  padding: 0 10px;\n}\n\n.row {\n  display: flex;\n  flex-direction: column;\n  padding: 1em 10px;\n}\n\n[class^=col] {\n  margin-top: 10px;\n  flex-basis: 100%;\n  min-height: 25px;\n  padding: 10px;\n  border-radius: 5px;\n}\n\n.theme.col-1 {\n  background-color: #927bc1;\n}\n\n.theme.col-2 {\n  background-color: #fd7856;\n}\n\n.theme.col-3 {\n  background-color: #deb2ee;\n}\n\n.theme.col-4 {\n  background-color: #7ee6fd;\n}\n\n.theme.col-5 {\n  background-color: #88d9a0;\n}\n\n.theme.col-6 {\n  background-color: #4da2bb;\n}\n\n.theme.col-7 {\n  background-color: #ec9fa3;\n}\n\n.theme.col-8 {\n  background-color: #fd9f85;\n}\n\n.theme.col-9 {\n  background-color: #e4757a;\n}\n\n.theme.col-10 {\n  background-color: #63cc82;\n}\n\n.theme.col-11 {\n  background-color: #51ddfc;\n}\n\n.theme.col-12 {\n  background-color: #80e8d1;\n}\n\n.card {\n  flex-basis: 100%;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,mDAAmD;AACnD,mDAAmD;AACnD,mDAAmD;;AAEnD,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,MAAM;CAChB;;;AAED,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,OAAO,EAAE,QAAQ;CAClB;;;CAED,AAAA,AAAA,KAAC,EAAD,GAAC,AAAA,EAAY;EACX,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,GAAG;CACnB;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,OAAO,CAAC;EACZ,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,OAAO,CAAC;EACZ,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,MAAM,AAAA,OAAO,CAAC;EACZ,gBAAgB,EAAE,OAAO;CAC1B;;;AAED,AAAA,KAAK,CAAC;EACJ,UAAU,EAAE,IAAI;CACjB"
+}

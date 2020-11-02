@@ -1,0 +1,90 @@
+/* ============================================= */
+/*              Grid System                      */
+/* ============================================= */
+/* line 5, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.container {
+  padding: 0 10px;
+}
+
+/* line 9, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.row {
+  display: flex;
+  flex-direction: column;
+  padding: 1em 10px;
+}
+
+/* line 15, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+[class^=col] {
+  margin-top: 10px;
+  flex-basis: 100%;
+  min-height: 25px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* line 23, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-1 {
+  background-color: #927bc1;
+}
+
+/* line 27, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-2 {
+  background-color: #fd7856;
+}
+
+/* line 31, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-3 {
+  background-color: #deb2ee;
+}
+
+/* line 35, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-4 {
+  background-color: #7ee6fd;
+}
+
+/* line 39, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-5 {
+  background-color: #88d9a0;
+}
+
+/* line 43, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-6 {
+  background-color: #4da2bb;
+}
+
+/* line 47, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-7 {
+  background-color: #ec9fa3;
+}
+
+/* line 51, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-8 {
+  background-color: #fd9f85;
+}
+
+/* line 55, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-9 {
+  background-color: #e4757a;
+}
+
+/* line 59, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-10 {
+  background-color: #63cc82;
+}
+
+/* line 63, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-11 {
+  background-color: #51ddfc;
+}
+
+/* line 67, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.theme.col-12 {
+  background-color: #80e8d1;
+}
+
+/* line 71, ../../../../../../../../../../../../../Users/HannahBarber/Desktop/Techdegree/Tech-Degree-Project-4/Tech-Degree-Project-4/scss/component/grid.scss */
+.card {
+  flex-basis: 100%;
+}
+
+/*# sourceMappingURL=grid.css.map */

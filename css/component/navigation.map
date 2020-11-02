@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "navigation.css",
+	"sources": [
+		"../../scss/component/navigation.scss"
+	],
+	"sourcesContent": [
+		"/* ============================================= */\n/*              Navigation                       */\n/* ============================================= */\n\n.nav {\n  padding-left: 0;\n  flex-basis: 100%;\n  display: flex;\n  flex-direction: column;\n}\n\n.nav-link {\n  text-align: center;\n  border-radius: 5px;\n  padding: 10px 0;\n  display: block;\n  width: 100%;\n  transition: \n    background-color .2s ease-in-out, \n    color .2s ease-in-out;\n}\n\n.nav-link:hover {\n  color: #fff;\n  background-color: #58e1c1;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,mDAAmD;AACnD,mDAAmD;AACnD,mDAAmD;;AAEnD,AAAA,IAAI,CAAC;EACH,YAAY,EAAE,CAAC;EACf,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CACvB;;;AAED,AAAA,SAAS,CAAC;EACR,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,MAAM;EACf,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;EACX,UAAU,EACR,wDACqB;CACxB;;;AAED,AAAA,SAAS,AAAA,MAAM,CAAC;EACd,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO;CAC1B"
+}
