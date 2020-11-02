@@ -1,1 +1,12 @@
 //////Mixins////////
+
+@mixin lighten-button($scheme-color) {
+	.btn {
+		transition: background-color 1s ease-in, color 1s ease-in;
+	}
+	
+	&:hover {
+		background-color: lighten($scheme-color, 15%);
+		color: #fff;
+	}
+}

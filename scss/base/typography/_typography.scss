@@ -14,13 +14,16 @@ p {
 
 a {
   text-decoration: none;
+	&:visited {
+		color: $accent-color;
+	}
 	
 }
 
 .headline-primary {
   color: $accent-color;
   margin-left: 10px;
-	text-align: center;
+
 }
 
 .headline-secondary {
@@ -41,4 +44,9 @@ a {
   padding-left: 20px;
   border-left: 8px solid $accent-color;
   border-radius: 5px;
+}
+
+.btn {
+	  text-transform: uppercase;
+	  color: #fff;
 }

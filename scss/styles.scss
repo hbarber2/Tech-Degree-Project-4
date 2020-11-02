@@ -2,7 +2,7 @@
 // Sub folder Imports
 //=======================
 
-@use 'utilities/index',
-				'base/index',
-				'components/index';
+@import 'utilities/index';
+@import	'base/index';
+@import	'component/index';
 	
